@@ -1,0 +1,64 @@
+22. deepFlatten
+This snippet flattens an array recursively.
+
+Part 2
+
+23. default
+This snippet assigns default values for all properties in an object that are undefined.
+
+24. defer
+This snippet delays the execution of a function until the current call stack is cleared.
+
+25. degreesToRads
+This code snippet can be used to convert a value from degrees to radians.
+
+26. difference
+This snippet finds the difference between two arrays.
+
+27. differenceBy
+This method returns the difference between two arrays, after applying a given function to each element of both lists.
+
+28. differenceWith
+This snippet removes the values for which the comparator function returns false.
+
+29. digitize
+This snippet gets a number as input and returns an array of its digits.
+
+30. distance
+This snippet returns the distance between two points by calculating the Euclidean distance.
+
+31. Drop Elements
+This snippet returns a new array with n elements removed from the left.
+
+32. dropRight
+This snippet returns a new array with n elements removed from the right.
+
+33. dropRightWhile
+This snippet removes elements from the right side of an array until the passed function returns true.
+
+34. dropWhile
+This snippet removes elements from an array until the passed function returns true.
+
+35. elementContains
+This snippet checks whether the parent element contains the child.
+
+36. Filter Duplicate Elements
+This snippet removes duplicate values in an array.
+
+37. findKey
+This snippet returns the first key that satisfies a given function.
+
+38. findLast
+This snippet returns the last element for which a given function returns a truthy value.
+
+39. flatten
+This snippet flattens an array up to a specified depth using recursion.
+
+40. forEachRight
+This snippet executes a function for each element of an array starting from the array’s last element.
+
+41. forOwn
+This snippet iterates on each property of an object and iterates a callback for each one respectively.
+
+42. functionName
+This snippet prints the name of a function into the console.

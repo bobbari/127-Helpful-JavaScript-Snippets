@@ -1,0 +1,64 @@
+Part 3
+
+43. Get Time From Date
+This snippet can be used to get the time from a Date object as a string.
+
+44. Get Days Between Dates
+This snippet can be used to find the difference in days between two dates.
+
+45. getStyle
+This snippet can be used to get the value of a CSS rule for a particular element.
+
+46. getType
+This snippet can be used to get the type of a value.
+
+47. hasClass
+This snippet checks whether an element has a particular class.
+
+48. head
+This snippet returns the head of a list.
+
+49. hide
+This snippet can be used to hide all elements specified.
+
+50. httpsRedirect
+This snippet can be used to redirect from HTTP to HTTPS in a particular domain.
+
+51. indexOfAll
+This snippet can be used to get all indexes of a value in an array, which returns an empty array, in case this value is not included in it.
+
+52. initial
+This snippet returns all elements of an array except the last one.
+
+53. insertAfter
+This snippet can be used to insert an HTML string after the end of a particular element.
+
+54. insertBefore
+This snippet can be used to insert an HTML string before a particular element.
+
+55. intersection
+This snippet can be used to get an array with elements that are included in two other arrays.
+
+56. intersectionBy
+This snippet can be used to return a list of elements that exist in both arrays, after a particular function has been executed to each element of both arrays.
+
+57. intersectionWith
+This snippet can be used to return a list of elements that exist in both arrays by using a comparator function.
+
+58. is
+This snippet can be used to check if a value is of a particular type.
+
+59. isAfterDate
+This snippet can be used to check whether a date is after another date.
+
+60. isAnagram
+This snippet can be used to check whether a particular string is an anagram with another string.
+
+61. isArrayLike
+This snippet can be used to check if a provided argument is iterable like an array.
+
+62. isBeforeDate
+This snippet can be used to check whether a date is before another date.
+
+63. isBoolean
+This snippet can be used to check whether an argument is a boolean.

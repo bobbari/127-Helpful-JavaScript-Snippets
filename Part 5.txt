@@ -1,0 +1,67 @@
+Part 5
+
+85. minN
+This snippet returns the n smallest elements from a list. If n is greater than or equal to the list’s length, then it will return the original list (sorted in ascending order).
+
+86. negate
+This snippet can be used to apply the not operator (!) to a predicate function with its arguments.
+
+87. nodeListToArray
+This snippet can be used to convert a nodeList to an array.
+
+88. pad
+This snippet can be used to pad a string on both sides with a specified character if it is shorter than the specified length.
+
+89. radsToDegrees
+This snippet can be used to convert an angle from radians to degrees.
+
+90. Random Hexadecimal Color Code
+This snippet can be used to generate a random hexadecimal color code.
+
+91. randomIntArrayInRange
+This snippet can be used to generate an array with n random integers in a specified range.
+
+92. randomIntegerInRange
+This snippet can be used to generate a random integer in a specified range.
+
+93. randomNumberInRange
+This snippet can be used to return a random number in a specified range.
+
+94. readFileLines
+This snippet can be used to read a file by getting an array of lines from a file.
+
+95. Redirect to a URL
+This snippet can be used to do a redirect to a specified URL.
+
+96. reverse
+This snippet can be used to reverse a string.
+
+97. round
+This snippet can be used to round a number to a specified number of digits.
+
+98. runPromisesInSeries
+This snippet can be used to run an array of promises in series.
+
+99. sample
+This snippet can be used to get a random number from an array.
+
+100. sampleSize
+This snippet can be used to get n random elements from unique positions from an array up to the size of the array. Elements in the array are shuffled using the Fisher-Yates algorithm.
+
+101. scrollToTop
+This snippet can be used to do a smooth scroll to the top of the current page.
+
+102. serializeCookie
+This snippet can be used to serialize a cookie name-value pair into a Set-Cookie header string.
+
+103. setStyle
+This snippet can be used to set the value of a CSS rule for a particular element.
+
+104. shallowClone
+This snippet can be used to create a shallow clone of an object.
+
+105. show
+This snippet can be used to show all the elements specified.
+
+106. shuffle
+This snippet can be used to order the elements of an array randomly using the Fisher-Yates algorithm.

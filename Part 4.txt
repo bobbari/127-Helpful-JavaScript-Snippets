@@ -1,0 +1,65 @@
+Part 4
+
+64. isBrowser
+This snippet can be used to determine whether the current runtime environment is a browser. This is helpful for avoiding errors when running front-end modules on the server (Node).
+
+65. isBrowserTabFocused
+This snippet can be used to determine whether the browser tab is focused.
+
+66. isLowerCase
+This snippet can be used to determine whether a string is lower case.
+
+67. isNil
+This snippet can be used to check whether a value is null or undefined.
+
+68. isNull
+This snippet can be used to check whether a value is null.
+
+69. isNumber
+This snippet can be used to check whether a provided value is a number.
+
+70. isObject
+This snippet can be used to check whether a provided value is an object. It uses the Object constructor to create an object wrapper for the given value.
+If it is already an object, then an object type that corresponds to the given value will be returned. Otherwise, a new object will be returned.
+
+71. isObjectLike
+This snippet can be used to check if a value is not null and that its typeof is “object”.
+
+72. isPlainObject
+This snippet checks whether a value is an object created by the Object constructor.
+
+73. isPromiseLike
+This snippet checks whether an object looks like a Promise.
+
+74. isSameDate
+This snippet can be used to check whether two dates are equal.
+
+75. isString
+This snippet can be used to check whether an argument is a string.
+
+76. isSymbol
+This snippet can be used to check whether an argument is a symbol.
+
+77. isUndefined
+This snippet can be used to check whether a value is undefined.
+
+78. isUpperCase
+This snippet can be used to check whether a string is upper case.
+
+79. isValidJSON
+This snippet can be used to check whether a string is a valid JSON.
+
+80. last
+This snippet returns the last element of an array.
+
+81. matches
+This snippet compares two objects to determine if the first one contains the same property values as the second one.
+
+82. maxDate
+This snippet can be used to get the latest date.
+
+83. maxN
+This snippet returns the n largest elements from a list. If n is greater than or equal to the list’s length, then it will return the original list (sorted in descending order).
+
+84. minDate
+This snippet can be used to get the earliest date.
